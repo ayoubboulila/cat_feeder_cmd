@@ -1,1 +1,1 @@
-10-08-2023:10-06:command:ls ../../
+10-25-2023:17-06:command:sudo /sbin/reboot
