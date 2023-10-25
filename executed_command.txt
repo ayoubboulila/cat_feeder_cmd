@@ -1,1 +1,1 @@
-10-08-2023 10-06:command: ls ../../, run at: 2023-10-08 20-24
+10-25-2023 17-06:command: sudo /sbin/reboot, run at: 2023-10-25 16-30
